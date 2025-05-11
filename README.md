@@ -4,7 +4,7 @@ Hi 👋 My name is Arsen
 I'm a Web Develover
 -------------------
 
-I started learning code in 2024, I started with HTML and CSS, then JavaScript, but now I learning NodeJS.
+I started learning code in 2024, I started with HTML and CSS, then JavaScript, React and Typescript but now I'm learning NodeJS.
 
 *   🌍  I'm based in Ukraine
 *   ✉️  You can contact me at [tolkov1109@gmail.com](mailto:tolkov1109@gmail.com)
